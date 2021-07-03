@@ -1,3 +1,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/iworkerweb/react.git
+[submodule "react-demo"]
+	path = react-demo
+	url = https://github.com/iworkerweb/react-demo.git
